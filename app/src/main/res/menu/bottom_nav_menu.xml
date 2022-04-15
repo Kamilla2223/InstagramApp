@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="home"/>
+    <item
+        android:id="@+id/search"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="search"/>
+    <item
+        android:id="@+id/igtv"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_instagram_igtv"
+        android:title="igtv"/>
+    <item
+        android:id="@+id/favorite"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_favorite_unchecked"
+        android:title="favorite"/>
+    <item
+        android:id="@+id/icon_acc"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_flower_2"
+        android:title="icon_acc"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramApp</string>
+    <string name="edittext_hint_login"><font size="31">Номер телефона, имя пользователя или e-mail</font></string>
+    <string name="edittext_hint_password"><font size="31">Пароль</font></string>
+    <string name="btn_login_text">У вас нет аккаунта? <font color="#1E90FF">Зарегистрироваться</font></string>
+    <string name="no_acc_text"><font color="#1E90FF" textStyle="bold">Войти </font></string>
+    <string name="likes">Нравится: $s</string>
+    <string name="info_post"><b>$s</b> Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</string>
+</resources>
